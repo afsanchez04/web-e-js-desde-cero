@@ -77,7 +77,7 @@ let nombre = 'MaRiO'.toLowerCase()
 
 //Condicional if
 
-let color = prompt("dime un color").toLowerCase()
+/* let color = prompt("dime un color").toLowerCase()
 
 if( color === "azul" ){
     console.log("Adivinaste el color! 😊")
@@ -88,7 +88,7 @@ if( color === "azul" ){
 }else{
     console.log("Perdiste :(")
 }
-
+ */
 
 
 
