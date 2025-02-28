@@ -1,0 +1,10 @@
+li{
+    background: antiquewhite;
+    padding: 10px;
+    list-style: none;
+    border: 1px solid lightgrey;
+}
+
+body{
+    background-color: rgb(25, 25, 25);
+}
